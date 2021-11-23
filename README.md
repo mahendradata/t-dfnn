@@ -1,7 +1,7 @@
 
 # T-DFNN
 
-This repository is a proof of concept of algorithms described in [T-DFNN: An Incremental Learning Algorithm for Intrusion Detection Systems](https://github.com/datanduth/t-dfnn) paper.
+This repository is a proof of concept of algorithms described in [T-DFNN: An Incremental Learning Algorithm for Intrusion Detection Systems](https://doi.org/10.1109/ACCESS.2021.3127985) paper.
 
 ## Project Guidelines
 
